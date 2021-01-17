@@ -26,7 +26,7 @@ If it hears keywords like ‘bachao’ or ‘help’, it should use a machine le
 - Satyamurti D
 
 #### Dataset
-- We are using RAVDESS, SAVEE, TESS dataset of speech. We filtered some of the data according to our use case which consists of 2000 speech files of 10 different emotions including like female fear, female sad, female happy, male fear and so on. 
+- We are using [RAVDESS](https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio), [SAVEE](https://www.kaggle.com/barelydedicated/savee-database), [TESS](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess) dataset of speech. We filtered some of the data according to our use case which consists of 2000 speech files of 10 different emotions including like female fear, female sad, female happy, male fear and so on. 
 #### Feature Extraction
 - MFCC Features:
 MFCCs are the Mel Frequency Cepstral Coefficients. MFCC takes into account human perception for sensitivity at appropriate frequencies by converting the conventional frequency to Mel Scale, and are thus suitable for speech recognition tasks quite well
