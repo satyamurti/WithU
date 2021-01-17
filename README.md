@@ -20,6 +20,11 @@
 #### AI/ML model that recognises the tone and perform counter action:
 If it hears keywords like ‘bachao’ or ‘help’, it should use a machine learning or artificial intelligence model to judge the tone or emotional state of the statement and automatically trigger some actions like sending texts to nearby police station, she teams etc with geo co-ordinates and start live navigation with them. The model should be able to differentiate a cry for real help from a casual conversation like “could you help me with math test?”. Native language keywords can also be included.
 
+### Developed by 
+- Harsh Khandelwal
+- Nikkil V
+- Satyamurti D
+
 #### Dataset
 - We are using RAVDESS, SAVEE, TESS dataset of speech. We filtered some of the data according to our use case which consists of 2000 speech files of 10 different emotions including like female fear, female sad, female happy, male fear and so on. 
 #### Feature Extraction
