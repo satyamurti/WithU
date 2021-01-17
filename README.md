@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/>
+  <img src="ic_launcher.png"/>
 </p>
 
 # WithU
