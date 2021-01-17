@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WithU</string>
+    <string name="tab_record">Recorder</string>
+    <string name="tab_audio">Audios</string>
+    <string name="sos_helper_number">SOS helper number</string>
+    <string name="sosauto">SOS Number</string>
+    <string name="saveS">Save Settings</string>
+    <string name="sos_number">SOS Number :</string>
+    <string name="sosMain">SOS</string>
+    <string name="title_activity_maps">Map Current Location</string>
+    <string name="permission_rationale_location">permission Rationale Location</string>
+    <string name="permission_required_toast">permission required toast</string>
+    <string name="location_permission_denied">location permission denied</string>
+    <string name="google_maps_key">AIzaSyByh4m3Lvu9PLIJIk2ANQzMZbr7IW1Utwk</string>
+</resources>
