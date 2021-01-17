@@ -1,0 +1,2001 @@
+file_name,emotion
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-02-02-01-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-01-02-01-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-01-01-02-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-01-01-01-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-01-01-02-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-01-01-02-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-02-01-02-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-02-01-01-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-01-02-02-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-01-02-01-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-02-02-02-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-02-01-02-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-02-01-01-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-02-02-01-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-01-01-01-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-01-02-02-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-02-02-01-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-02-02-02-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-01-02-02-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-02-02-02-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-02-02-01-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-01-01-01-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-02-01-02-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-02-01-01-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-02-01-02-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-02-02-01-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-02-02-02-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-01-02-01-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-02-01-02-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-01-01-01-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-02-02-02-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-01-02-02-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-06-01-01-02-02.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-05-01-02-01-02.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-01-01-02-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-02-01-01-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-02-02-01-01-02.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-01-02-02-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-04-01-01-01-02.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_02/03-01-03-01-02-01-02.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-01-02-02-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-02-01-02-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-01-01-02-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-02-01-01-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-02-02-01-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-02-02-01-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-01-02-01-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-01-01-02-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-02-01-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-02-01-01-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-02-02-02-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-01-02-01-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-01-02-02-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-01-01-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-02-02-02-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-01-02-01-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-02-02-01-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-02-01-01-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-02-02-02-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-01-01-02-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-02-02-01-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-01-02-02-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-02-01-02-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-01-01-01-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-01-02-01-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-01-01-01-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-01-02-02-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-02-01-01-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-01-01-01-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-01-01-02-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-01-02-02-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-02-01-02-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-01-02-01-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-05-01-01-01-17.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-02-01-02-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-03-01-01-01-17.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-06-01-01-02-17.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-01-02-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-02-02-02-02-17.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_17/03-01-04-02-02-02-17.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-02-01-02-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-02-02-01-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-02-02-02-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-02-01-01-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-01-02-01-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-01-01-02-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-01-01-01-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-01-01-01-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-01-02-01-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-02-01-01-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-01-02-01-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-02-02-02-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-02-01-02-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-01-02-01-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-02-01-01-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-01-01-01-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-01-01-01-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-01-01-01-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-01-02-02-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-02-01-01-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-02-02-01-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-02-01-02-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-01-01-02-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-01-02-02-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-02-02-01-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-02-02-01-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-01-01-02-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-02-01-01-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-02-01-02-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-01-01-02-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-05-01-02-02-05.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-01-02-01-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-01-02-02-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-02-02-01-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-02-02-02-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-04-01-02-02-05.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-01-01-02-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-06-02-02-02-05.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-03-02-02-02-05.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_05/03-01-02-02-01-02-05.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-02-02-01-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-02-01-02-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-02-01-01-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-02-01-02-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-02-02-01-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-02-02-01-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-01-02-02-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-01-01-01-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-02-02-02-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-01-01-02-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-02-02-01-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-02-02-02-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-01-02-02-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-01-01-01-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-01-02-02-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-02-01-01-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-02-02-02-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-02-02-02-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-01-02-01-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-01-01-01-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-01-02-01-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-01-01-02-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-01-01-01-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-01-02-02-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-01-01-02-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-01-02-01-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-02-01-01-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-02-02-02-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-01-01-02-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-02-01-01-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-02-01-01-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-01-01-01-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-01-01-02-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-01-02-01-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-02-01-02-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-04-01-02-02-16.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-06-02-01-02-16.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-05-02-02-01-16.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-03-02-01-02-16.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_16/03-01-02-01-02-01-16.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-01-01-01-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-02-02-01-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-01-01-02-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-01-02-01-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-01-01-02-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-02-01-01-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-02-01-02-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-01-02-02-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-01-01-02-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-02-02-01-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-01-02-01-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-02-01-02-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-02-01-02-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-01-01-02-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-02-02-01-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-01-02-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-02-02-02-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-02-01-02-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-01-01-01-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-02-02-02-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-01-02-01-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-02-02-01-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-02-01-01-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-01-01-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-02-02-02-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-02-01-01-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-01-02-02-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-01-02-01-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-05-01-01-02-21.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-01-01-01-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-01-01-01-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-01-02-02-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-02-02-02-02-21.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-01-02-01-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-02-01-01-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-01-02-02-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-02-02-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-04-01-01-01-21.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-06-01-02-02-21.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_21/03-01-03-02-02-01-21.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-01-02-02-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-02-01-02-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-02-02-01-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-01-02-01-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-01-02-02-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-02-01-02-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-01-02-01-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-01-01-02-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-01-01-01-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-01-01-02-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-02-01-01-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-02-02-02-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-01-02-02-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-01-02-02-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-02-01-02-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-02-02-01-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-02-02-01-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-02-02-01-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-02-02-02-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-01-01-01-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-02-01-01-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-01-01-01-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-01-01-02-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-01-02-02-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-01-01-01-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-02-02-01-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-02-01-01-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-02-01-02-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-01-02-01-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-01-01-02-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-01-01-01-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-02-02-02-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-02-01-02-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-04-01-02-01-01.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-02-01-01-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-02-01-01-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-02-02-02-02-01.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-05-01-02-01-01.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-03-01-01-02-01.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_01/03-01-06-02-02-02-01.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-02-02-01-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-01-02-02-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-02-01-02-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-01-02-01-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-01-01-02-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-02-02-02-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-02-01-01-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-01-02-01-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-01-01-01-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-01-01-01-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-02-02-02-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-02-01-01-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-01-01-02-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-01-01-01-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-02-02-01-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-01-02-02-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-01-02-02-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-02-01-01-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-01-02-01-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-01-01-02-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-02-02-01-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-02-02-01-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-02-02-02-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-02-01-01-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-02-01-02-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-02-01-02-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-01-02-02-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-02-01-02-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-02-01-01-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-02-02-02-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-02-01-01-01-11.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-01-02-01-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-01-02-02-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-01-01-01-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-02-01-02-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-01-02-01-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-03-02-02-01-11.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-04-01-01-02-11.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-05-02-02-02-11.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_11/03-01-06-01-01-02-11.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-01-02-01-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-02-01-02-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-02-02-02-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-01-01-02-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-02-01-01-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-01-02-01-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-01-01-02-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-01-02-01-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-02-02-02-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-01-01-01-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-02-01-01-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-02-02-02-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-01-02-02-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-01-02-01-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-02-01-02-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-01-02-02-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-01-02-01-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-02-01-02-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-02-01-01-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-01-01-02-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-02-02-01-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-01-01-01-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-02-01-02-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-01-01-01-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-02-01-01-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-01-02-02-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-01-01-02-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-02-02-01-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-01-01-01-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-02-02-02-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-02-02-01-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-02-01-01-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-03-01-01-02-20.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-05-02-01-02-20.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-01-02-02-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-02-02-01-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-02-02-01-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-04-01-02-02-20.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-06-02-02-02-20.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_20/03-01-02-01-01-01-20.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-02-01-02-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-01-01-02-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-02-02-01-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-02-01-01-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-01-02-02-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-01-02-02-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-01-02-01-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-02-01-01-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-02-01-01-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-01-01-02-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-02-02-02-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-01-01-02-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-02-02-02-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-01-01-01-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-01-01-02-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-02-02-02-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-01-02-02-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-01-02-01-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-02-01-02-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-02-01-01-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-03-02-02-01-08.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-01-01-02-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-02-01-02-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-02-01-02-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-02-02-02-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-01-02-02-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-02-02-01-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-02-01-02-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-02-01-01-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-01-01-01-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-01-01-01-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-01-02-02-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-06-01-02-01-08.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-01-01-01-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-01-02-01-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-04-01-02-01-08.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-02-02-01-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-01-01-01-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-02-02-02-01-08.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_08/03-01-05-02-02-02-08.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-02-02-02-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-01-01-02-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-01-02-01-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-02-02-01-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-02-02-02-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-02-01-01-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-01-01-02-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-02-01-01-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-01-02-02-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-01-01-01-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-02-01-02-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-01-02-01-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-01-02-02-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-01-02-01-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-01-02-02-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-02-02-01-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-02-02-02-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-02-02-01-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-02-01-02-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-02-01-01-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-01-02-01-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-02-01-02-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-02-02-01-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-02-02-01-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-02-01-01-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-02-01-02-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-01-02-02-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-01-02-02-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-01-01-01-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-01-01-02-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-01-01-01-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-01-01-01-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-01-02-01-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-05-01-01-02-15.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-02-02-02-02-15.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-02-01-01-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-01-01-02-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-03-02-02-02-15.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-06-01-01-01-15.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_15/03-01-04-02-01-02-15.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-01-01-02-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-02-02-01-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-02-02-02-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-01-02-02-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-02-02-01-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-01-02-02-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-02-01-02-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-02-01-02-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-02-02-02-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-02-02-02-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-01-02-01-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-01-01-01-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-02-01-01-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-01-02-01-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-01-02-01-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-02-02-02-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-02-01-01-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-01-01-02-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-01-01-01-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-02-01-01-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-02-02-02-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-01-01-01-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-02-02-01-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-02-02-01-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-01-02-01-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-01-02-02-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-06-01-01-01-06.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-02-01-01-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-01-02-01-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-01-01-02-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-02-01-02-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-04-01-01-02-06.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-02-02-01-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-01-01-02-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-01-01-01-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-01-02-02-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-02-02-01-01-06.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-03-02-01-02-06.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-02-01-02-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_06/03-01-05-01-02-02-06.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-01-01-01-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-01-02-02-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-02-02-02-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-02-01-01-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-01-01-02-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-01-02-01-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-01-02-01-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-02-02-01-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-02-01-01-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-02-02-01-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-02-01-02-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-01-01-01-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-02-02-02-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-01-02-02-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-02-01-01-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-01-01-02-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-01-01-01-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-02-01-02-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-02-02-01-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-02-02-01-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-02-01-01-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-02-01-01-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-02-02-02-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-01-01-01-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-01-02-01-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-05-02-01-02-12.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-02-02-02-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-01-02-02-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-01-02-01-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-06-02-01-02-12.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-01-02-02-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-02-02-02-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-02-02-01-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-01-02-01-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-01-01-02-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-01-02-02-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-04-01-01-02-12.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-01-01-01-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-02-02-01-02-12.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_12/03-01-03-01-01-02-12.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-02-02-02-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-02-02-02-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-02-01-01-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-01-02-02-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-02-02-01-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-01-02-01-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-02-01-01-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-02-02-02-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-01-02-01-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-01-01-02-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-02-02-01-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-01-02-02-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-02-01-02-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-02-02-01-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-01-01-01-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-01-01-01-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-02-01-02-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-01-02-01-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-02-02-02-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-02-01-02-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-01-01-01-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-01-01-02-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-01-01-01-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-02-01-01-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-01-01-01-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-01-02-02-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-02-01-02-02-23.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-02-02-01-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-02-01-01-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-02-01-02-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-01-02-02-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-03-01-01-02-23.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-02-02-02-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-01-01-02-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-01-01-02-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-02-01-01-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-01-02-01-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-06-02-02-01-23.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-04-02-01-02-23.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_23/03-01-05-01-02-01-23.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-02-02-02-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-02-02-01-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-01-02-02-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-02-02-01-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-01-02-01-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-01-02-01-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-01-01-02-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-02-01-02-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-01-02-01-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-02-01-02-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-02-01-01-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-01-01-01-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-01-02-02-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-01-01-01-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-01-02-02-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-02-02-02-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-01-01-01-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-01-02-01-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-02-01-02-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-01-02-02-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-01-02-01-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-02-02-02-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-01-01-02-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-01-01-02-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-01-01-02-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-01-01-01-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-02-01-02-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-02-02-01-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-02-01-02-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-06-02-01-01-24.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-01-01-02-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-02-02-01-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-04-02-01-01-24.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-01-02-02-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-05-02-02-02-24.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-02-01-01-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-02-01-01-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-02-02-02-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-02-01-01-01-24.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_24/03-01-03-02-02-01-24.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-02-02-01-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-01-02-02-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-02-02-01-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-01-01-02-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-02-02-01-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-01-01-01-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-02-02-02-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-02-01-02-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-01-02-01-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-01-01-02-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-01-02-01-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-02-02-02-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-02-02-02-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-02-02-01-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-01-02-01-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-02-02-02-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-01-02-02-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-01-01-01-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-01-02-01-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-01-01-02-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-01-01-02-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-02-01-01-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-02-02-01-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-01-02-02-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-01-01-01-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-02-01-02-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-01-01-01-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-06-02-01-01-22.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-02-01-02-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-02-01-02-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-02-01-01-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-02-01-02-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-05-02-01-01-22.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-01-02-02-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-01-01-01-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-04-01-02-01-22.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-01-01-02-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-01-02-02-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-03-02-01-01-22.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_22/03-01-02-02-02-02-22.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-01-01-01-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-02-02-02-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-02-01-02-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-02-02-02-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-02-01-01-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-02-02-02-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-01-02-02-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-01-02-02-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-01-01-02-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-02-02-01-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-02-02-02-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-01-01-02-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-01-01-02-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-01-01-02-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-01-02-01-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-02-02-01-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-01-01-01-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-02-01-02-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-02-02-02-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-02-02-01-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-01-02-01-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-02-01-02-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-01-01-01-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-01-02-02-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-02-01-01-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-02-01-01-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-02-02-01-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-02-01-01-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-01-01-01-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-01-01-01-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-02-01-01-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-02-01-02-01-04.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-04-02-01-02-04.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-01-02-02-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-01-01-02-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-01-02-01-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-03-02-01-02-04.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-01-02-01-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-05-01-02-02-04.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_04/03-01-06-02-02-01-04.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-02-01-02-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-02-01-02-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-02-01-02-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-01-01-01-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-02-01-02-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-02-02-02-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-01-02-02-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-02-02-02-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-02-02-01-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-02-01-02-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-01-01-02-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-01-02-02-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-01-02-01-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-01-01-02-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-02-02-01-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-02-02-01-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-01-02-01-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-01-01-02-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-02-02-02-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-01-02-02-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-01-01-01-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-01-02-01-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-02-02-02-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-02-02-01-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-02-02-02-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-01-01-01-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-01-01-01-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-01-02-02-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-01-02-01-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-01-02-02-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-02-02-01-01-19.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-02-01-01-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-01-01-02-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-02-01-01-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-02-01-01-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-04-02-02-01-19.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-03-01-01-01-19.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-02-01-01-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-05-01-01-02-19.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_19/03-01-06-01-02-01-19.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-01-01-01-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-01-02-01-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-01-01-02-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-02-01-02-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-02-02-02-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-02-02-01-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-02-02-02-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-01-01-01-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-01-01-01-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-01-01-02-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-01-02-01-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-01-01-02-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-02-01-01-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-01-02-02-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-02-01-01-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-02-01-02-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-02-02-02-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-02-01-01-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-02-01-01-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-01-02-02-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-02-01-01-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-02-02-01-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-01-01-01-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-01-01-02-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-01-01-01-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-06-02-01-02-10.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-01-02-02-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-02-02-01-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-02-02-02-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-02-02-01-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-02-02-01-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-01-02-01-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-02-01-02-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-02-01-02-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-01-02-01-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-05-01-02-01-10.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-02-01-01-02-10.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-03-01-02-02-10.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-01-02-02-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_10/03-01-04-02-02-02-10.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-01-02-01-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-02-02-02-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-02-02-02-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-01-01-01-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-01-01-02-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-02-02-01-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-02-02-01-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-01-01-02-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-01-02-02-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-02-01-02-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-02-02-02-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-02-02-01-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-02-01-02-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-01-01-02-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-01-02-02-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-01-02-01-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-01-01-02-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-02-01-01-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-02-02-02-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-02-01-02-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-01-01-02-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-02-01-01-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-01-01-01-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-01-01-01-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-01-01-01-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-02-02-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-01-01-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-01-02-02-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-03-01-02-01-09.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-02-01-02-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-01-02-01-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-02-01-01-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-01-02-02-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-01-02-02-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-01-02-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-04-02-02-01-09.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-01-02-01-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-05-02-02-01-09.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-06-01-01-01-09.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_09/03-01-02-02-01-01-09.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-02-01-02-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-01-01-01-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-02-01-02-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-01-01-01-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-02-02-01-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-02-01-02-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-01-02-01-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-01-01-02-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-01-02-02-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-01-02-02-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-02-02-01-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-02-02-01-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-02-02-02-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-01-01-01-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-02-02-01-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-01-01-02-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-02-02-02-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-02-01-02-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-01-01-01-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-01-02-01-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-02-02-02-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-02-02-02-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-01-01-01-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-01-02-01-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-01-02-02-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-01-02-02-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-02-01-01-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-02-01-02-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-01-02-01-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-02-02-02-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-02-01-01-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-02-01-01-02-14.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-01-02-01-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-02-01-01-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-06-01-01-02-14.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-02-02-01-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-04-01-01-02-14.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-01-02-02-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-03-02-01-01-14.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_14/03-01-05-02-01-01-14.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-01-01-02-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-01-01-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-02-02-02-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-01-02-01-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-02-01-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-01-02-02-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-02-01-01-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-01-02-02-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-02-01-02-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-02-02-01-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-01-02-01-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-02-01-01-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-01-02-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-02-02-01-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-01-02-02-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-02-02-02-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-02-01-02-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-01-01-01-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-01-01-02-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-01-01-01-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-01-02-01-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-01-01-02-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-02-02-01-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-01-01-01-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-02-02-02-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-01-01-01-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-02-01-01-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-02-01-02-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-02-02-02-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-02-01-01-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-04-01-02-01-03.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-01-01-02-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-01-02-02-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-01-01-01-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-02-01-02-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-01-02-02-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-05-02-02-02-03.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-02-01-01-02-03.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-03-01-02-01-03.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_03/03-01-06-02-02-01-03.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-01-02-02-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-01-02-01-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-01-01-01-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-02-02-01-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-02-02-01-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-01-01-01-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-02-01-02-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-02-02-01-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-01-02-02-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-02-02-02-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-01-01-02-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-02-02-02-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-01-02-02-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-01-01-01-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-01-02-01-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-02-01-02-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-02-02-02-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-02-01-02-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-01-01-01-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-02-01-01-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-02-01-02-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-02-01-01-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-02-02-01-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-01-02-02-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-01-02-01-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-01-02-01-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-01-01-02-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-01-01-02-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-03-01-01-01-13.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-01-02-01-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-02-01-01-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-02-01-01-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-02-02-01-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-02-02-02-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-02-02-01-01-13.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-04-02-02-02-13.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-01-01-02-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-01-02-02-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-06-02-01-02-13.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_13/03-01-05-01-01-02-13.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-01-01-01-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-02-02-01-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-02-01-01-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-02-02-02-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-01-01-01-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-01-01-02-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-02-01-02-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-02-01-01-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-02-02-02-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-01-02-02-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-01-01-02-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-02-01-01-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-02-01-02-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-01-01-02-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-02-02-02-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-01-02-01-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-02-01-01-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-02-02-02-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-01-02-02-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-01-02-01-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-02-02-02-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-01-01-01-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-02-01-02-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-01-02-01-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-01-02-02-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-01-02-01-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-01-02-01-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-02-02-01-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-02-01-02-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-01-01-01-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-01-01-02-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-01-01-01-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-02-02-01-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-02-02-01-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-02-02-01-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-03-01-01-02-18.wav,female_happy
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-05-01-02-02-18.wav,female_angry
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-02-02-01-01-18.wav,female_calm
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-04-01-02-02-18.wav,female_sad
+../input/ravdess-emotional-speech-audio/Actor_18/03-01-06-02-01-02-18.wav,female_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-02-01-01-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-01-01-02-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-01-01-01-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-02-01-02-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-01-02-02-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-01-02-01-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-02-02-02-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-02-01-02-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-01-01-02-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-02-01-01-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-01-02-01-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-02-01-02-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-01-01-01-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-01-02-02-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-01-02-01-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-02-02-02-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-01-01-01-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-01-01-02-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-01-02-02-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-02-02-01-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-02-02-01-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-02-01-01-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-02-01-02-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-02-02-02-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-02-02-02-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-02-02-01-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-01-02-02-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-01-01-01-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-01-01-02-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-02-02-01-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-02-02-01-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-01-01-01-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-02-02-01-01-07.wav,male_calm
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-02-02-02-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-03-01-02-01-07.wav,male_happy
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-01-02-01-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-06-01-01-02-07.wav,male_fearful
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-01-02-02-07.wav,male_angry
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-04-02-01-01-07.wav,male_sad
+../input/ravdess-emotional-speech-audio/Actor_07/03-01-05-02-01-02-07.wav,male_angry
+../input/savee-database/AudioData/DC/h10.wav,male_happy
+../input/savee-database/AudioData/DC/sa02.wav,male_sad
+../input/savee-database/AudioData/DC/f08.wav,male_fearful
+../input/savee-database/AudioData/DC/h13.wav,male_happy
+../input/savee-database/AudioData/DC/f01.wav,male_fearful
+../input/savee-database/AudioData/DC/a13.wav,male_angry
+../input/savee-database/AudioData/DC/f07.wav,male_fearful
+../input/savee-database/AudioData/DC/h02.wav,male_happy
+../input/savee-database/AudioData/DC/f06.wav,male_fearful
+../input/savee-database/AudioData/DC/f12.wav,male_fearful
+../input/savee-database/AudioData/DC/a08.wav,male_angry
+../input/savee-database/AudioData/DC/f10.wav,male_fearful
+../input/savee-database/AudioData/DC/sa04.wav,male_sad
+../input/savee-database/AudioData/DC/sa14.wav,male_sad
+../input/savee-database/AudioData/DC/a05.wav,male_angry
+../input/savee-database/AudioData/DC/f05.wav,male_fearful
+../input/savee-database/AudioData/DC/f15.wav,male_fearful
+../input/savee-database/AudioData/DC/h09.wav,male_happy
+../input/savee-database/AudioData/DC/h06.wav,male_happy
+../input/savee-database/AudioData/DC/sa06.wav,male_sad
+../input/savee-database/AudioData/DC/a01.wav,male_angry
+../input/savee-database/AudioData/DC/f03.wav,male_fearful
+../input/savee-database/AudioData/DC/a02.wav,male_angry
+../input/savee-database/AudioData/DC/sa11.wav,male_sad
+../input/savee-database/AudioData/DC/sa10.wav,male_sad
+../input/savee-database/AudioData/DC/h03.wav,male_happy
+../input/savee-database/AudioData/DC/a12.wav,male_angry
+../input/savee-database/AudioData/DC/sa08.wav,male_sad
+../input/savee-database/AudioData/DC/f09.wav,male_fearful
+../input/savee-database/AudioData/DC/h01.wav,male_happy
+../input/savee-database/AudioData/DC/a03.wav,male_angry
+../input/savee-database/AudioData/DC/h14.wav,male_happy
+../input/savee-database/AudioData/DC/sa15.wav,male_sad
+../input/savee-database/AudioData/DC/h11.wav,male_happy
+../input/savee-database/AudioData/DC/h05.wav,male_happy
+../input/savee-database/AudioData/DC/a14.wav,male_angry
+../input/savee-database/AudioData/DC/a10.wav,male_angry
+../input/savee-database/AudioData/DC/f04.wav,male_fearful
+../input/savee-database/AudioData/DC/f13.wav,male_fearful
+../input/savee-database/AudioData/DC/f11.wav,male_fearful
+../input/savee-database/AudioData/DC/sa01.wav,male_sad
+../input/savee-database/AudioData/DC/h15.wav,male_happy
+../input/savee-database/AudioData/DC/f14.wav,male_fearful
+../input/savee-database/AudioData/DC/a11.wav,male_angry
+../input/savee-database/AudioData/DC/sa07.wav,male_sad
+../input/savee-database/AudioData/DC/sa09.wav,male_sad
+../input/savee-database/AudioData/DC/a15.wav,male_angry
+../input/savee-database/AudioData/DC/a09.wav,male_angry
+../input/savee-database/AudioData/DC/a07.wav,male_angry
+../input/savee-database/AudioData/DC/f02.wav,male_fearful
+../input/savee-database/AudioData/DC/h08.wav,male_happy
+../input/savee-database/AudioData/DC/sa13.wav,male_sad
+../input/savee-database/AudioData/DC/a06.wav,male_angry
+../input/savee-database/AudioData/DC/h04.wav,male_happy
+../input/savee-database/AudioData/DC/sa03.wav,male_sad
+../input/savee-database/AudioData/DC/h07.wav,male_happy
+../input/savee-database/AudioData/DC/h12.wav,male_happy
+../input/savee-database/AudioData/DC/a04.wav,male_angry
+../input/savee-database/AudioData/DC/sa12.wav,male_sad
+../input/savee-database/AudioData/DC/sa05.wav,male_sad
+../input/savee-database/AudioData/JE/h10.wav,male_happy
+../input/savee-database/AudioData/JE/sa02.wav,male_sad
+../input/savee-database/AudioData/JE/f08.wav,male_fearful
+../input/savee-database/AudioData/JE/h13.wav,male_happy
+../input/savee-database/AudioData/JE/f01.wav,male_fearful
+../input/savee-database/AudioData/JE/a13.wav,male_angry
+../input/savee-database/AudioData/JE/f07.wav,male_fearful
+../input/savee-database/AudioData/JE/h02.wav,male_happy
+../input/savee-database/AudioData/JE/f06.wav,male_fearful
+../input/savee-database/AudioData/JE/f12.wav,male_fearful
+../input/savee-database/AudioData/JE/a08.wav,male_angry
+../input/savee-database/AudioData/JE/f10.wav,male_fearful
+../input/savee-database/AudioData/JE/sa04.wav,male_sad
+../input/savee-database/AudioData/JE/sa14.wav,male_sad
+../input/savee-database/AudioData/JE/a05.wav,male_angry
+../input/savee-database/AudioData/JE/f05.wav,male_fearful
+../input/savee-database/AudioData/JE/f15.wav,male_fearful
+../input/savee-database/AudioData/JE/h09.wav,male_happy
+../input/savee-database/AudioData/JE/h06.wav,male_happy
+../input/savee-database/AudioData/JE/sa06.wav,male_sad
+../input/savee-database/AudioData/JE/a01.wav,male_angry
+../input/savee-database/AudioData/JE/f03.wav,male_fearful
+../input/savee-database/AudioData/JE/a02.wav,male_angry
+../input/savee-database/AudioData/JE/sa11.wav,male_sad
+../input/savee-database/AudioData/JE/sa10.wav,male_sad
+../input/savee-database/AudioData/JE/h03.wav,male_happy
+../input/savee-database/AudioData/JE/a12.wav,male_angry
+../input/savee-database/AudioData/JE/sa08.wav,male_sad
+../input/savee-database/AudioData/JE/f09.wav,male_fearful
+../input/savee-database/AudioData/JE/h01.wav,male_happy
+../input/savee-database/AudioData/JE/a03.wav,male_angry
+../input/savee-database/AudioData/JE/h14.wav,male_happy
+../input/savee-database/AudioData/JE/sa15.wav,male_sad
+../input/savee-database/AudioData/JE/h11.wav,male_happy
+../input/savee-database/AudioData/JE/h05.wav,male_happy
+../input/savee-database/AudioData/JE/a14.wav,male_angry
+../input/savee-database/AudioData/JE/a10.wav,male_angry
+../input/savee-database/AudioData/JE/f04.wav,male_fearful
+../input/savee-database/AudioData/JE/f13.wav,male_fearful
+../input/savee-database/AudioData/JE/f11.wav,male_fearful
+../input/savee-database/AudioData/JE/sa01.wav,male_sad
+../input/savee-database/AudioData/JE/h15.wav,male_happy
+../input/savee-database/AudioData/JE/f14.wav,male_fearful
+../input/savee-database/AudioData/JE/a11.wav,male_angry
+../input/savee-database/AudioData/JE/sa07.wav,male_sad
+../input/savee-database/AudioData/JE/sa09.wav,male_sad
+../input/savee-database/AudioData/JE/a15.wav,male_angry
+../input/savee-database/AudioData/JE/a09.wav,male_angry
+../input/savee-database/AudioData/JE/a07.wav,male_angry
+../input/savee-database/AudioData/JE/f02.wav,male_fearful
+../input/savee-database/AudioData/JE/h08.wav,male_happy
+../input/savee-database/AudioData/JE/sa13.wav,male_sad
+../input/savee-database/AudioData/JE/a06.wav,male_angry
+../input/savee-database/AudioData/JE/h04.wav,male_happy
+../input/savee-database/AudioData/JE/sa03.wav,male_sad
+../input/savee-database/AudioData/JE/h07.wav,male_happy
+../input/savee-database/AudioData/JE/h12.wav,male_happy
+../input/savee-database/AudioData/JE/a04.wav,male_angry
+../input/savee-database/AudioData/JE/sa12.wav,male_sad
+../input/savee-database/AudioData/JE/sa05.wav,male_sad
+../input/savee-database/AudioData/KL/h10.wav,male_happy
+../input/savee-database/AudioData/KL/sa02.wav,male_sad
+../input/savee-database/AudioData/KL/f08.wav,male_fearful
+../input/savee-database/AudioData/KL/h13.wav,male_happy
+../input/savee-database/AudioData/KL/f01.wav,male_fearful
+../input/savee-database/AudioData/KL/a13.wav,male_angry
+../input/savee-database/AudioData/KL/f07.wav,male_fearful
+../input/savee-database/AudioData/KL/h02.wav,male_happy
+../input/savee-database/AudioData/KL/f06.wav,male_fearful
+../input/savee-database/AudioData/KL/f12.wav,male_fearful
+../input/savee-database/AudioData/KL/a08.wav,male_angry
+../input/savee-database/AudioData/KL/f10.wav,male_fearful
+../input/savee-database/AudioData/KL/sa04.wav,male_sad
+../input/savee-database/AudioData/KL/sa14.wav,male_sad
+../input/savee-database/AudioData/KL/a05.wav,male_angry
+../input/savee-database/AudioData/KL/f05.wav,male_fearful
+../input/savee-database/AudioData/KL/f15.wav,male_fearful
+../input/savee-database/AudioData/KL/h09.wav,male_happy
+../input/savee-database/AudioData/KL/h06.wav,male_happy
+../input/savee-database/AudioData/KL/sa06.wav,male_sad
+../input/savee-database/AudioData/KL/a01.wav,male_angry
+../input/savee-database/AudioData/KL/f03.wav,male_fearful
+../input/savee-database/AudioData/KL/a02.wav,male_angry
+../input/savee-database/AudioData/KL/sa11.wav,male_sad
+../input/savee-database/AudioData/KL/sa10.wav,male_sad
+../input/savee-database/AudioData/KL/h03.wav,male_happy
+../input/savee-database/AudioData/KL/a12.wav,male_angry
+../input/savee-database/AudioData/KL/sa08.wav,male_sad
+../input/savee-database/AudioData/KL/f09.wav,male_fearful
+../input/savee-database/AudioData/KL/h01.wav,male_happy
+../input/savee-database/AudioData/KL/a03.wav,male_angry
+../input/savee-database/AudioData/KL/h14.wav,male_happy
+../input/savee-database/AudioData/KL/sa15.wav,male_sad
+../input/savee-database/AudioData/KL/h11.wav,male_happy
+../input/savee-database/AudioData/KL/h05.wav,male_happy
+../input/savee-database/AudioData/KL/a14.wav,male_angry
+../input/savee-database/AudioData/KL/a10.wav,male_angry
+../input/savee-database/AudioData/KL/f04.wav,male_fearful
+../input/savee-database/AudioData/KL/f13.wav,male_fearful
+../input/savee-database/AudioData/KL/f11.wav,male_fearful
+../input/savee-database/AudioData/KL/sa01.wav,male_sad
+../input/savee-database/AudioData/KL/h15.wav,male_happy
+../input/savee-database/AudioData/KL/f14.wav,male_fearful
+../input/savee-database/AudioData/KL/a11.wav,male_angry
+../input/savee-database/AudioData/KL/sa07.wav,male_sad
+../input/savee-database/AudioData/KL/sa09.wav,male_sad
+../input/savee-database/AudioData/KL/a15.wav,male_angry
+../input/savee-database/AudioData/KL/a09.wav,male_angry
+../input/savee-database/AudioData/KL/a07.wav,male_angry
+../input/savee-database/AudioData/KL/f02.wav,male_fearful
+../input/savee-database/AudioData/KL/h08.wav,male_happy
+../input/savee-database/AudioData/KL/sa13.wav,male_sad
+../input/savee-database/AudioData/KL/a06.wav,male_angry
+../input/savee-database/AudioData/KL/h04.wav,male_happy
+../input/savee-database/AudioData/KL/sa03.wav,male_sad
+../input/savee-database/AudioData/KL/h07.wav,male_happy
+../input/savee-database/AudioData/KL/h12.wav,male_happy
+../input/savee-database/AudioData/KL/a04.wav,male_angry
+../input/savee-database/AudioData/KL/sa12.wav,male_sad
+../input/savee-database/AudioData/KL/sa05.wav,male_sad
+../input/savee-database/AudioData/JK/h10.wav,male_happy
+../input/savee-database/AudioData/JK/sa02.wav,male_sad
+../input/savee-database/AudioData/JK/f08.wav,male_fearful
+../input/savee-database/AudioData/JK/h13.wav,male_happy
+../input/savee-database/AudioData/JK/f01.wav,male_fearful
+../input/savee-database/AudioData/JK/a13.wav,male_angry
+../input/savee-database/AudioData/JK/f07.wav,male_fearful
+../input/savee-database/AudioData/JK/h02.wav,male_happy
+../input/savee-database/AudioData/JK/f06.wav,male_fearful
+../input/savee-database/AudioData/JK/f12.wav,male_fearful
+../input/savee-database/AudioData/JK/a08.wav,male_angry
+../input/savee-database/AudioData/JK/f10.wav,male_fearful
+../input/savee-database/AudioData/JK/sa04.wav,male_sad
+../input/savee-database/AudioData/JK/sa14.wav,male_sad
+../input/savee-database/AudioData/JK/a05.wav,male_angry
+../input/savee-database/AudioData/JK/f05.wav,male_fearful
+../input/savee-database/AudioData/JK/f15.wav,male_fearful
+../input/savee-database/AudioData/JK/h09.wav,male_happy
+../input/savee-database/AudioData/JK/h06.wav,male_happy
+../input/savee-database/AudioData/JK/sa06.wav,male_sad
+../input/savee-database/AudioData/JK/a01.wav,male_angry
+../input/savee-database/AudioData/JK/f03.wav,male_fearful
+../input/savee-database/AudioData/JK/a02.wav,male_angry
+../input/savee-database/AudioData/JK/sa11.wav,male_sad
+../input/savee-database/AudioData/JK/sa10.wav,male_sad
+../input/savee-database/AudioData/JK/h03.wav,male_happy
+../input/savee-database/AudioData/JK/a12.wav,male_angry
+../input/savee-database/AudioData/JK/sa08.wav,male_sad
+../input/savee-database/AudioData/JK/f09.wav,male_fearful
+../input/savee-database/AudioData/JK/h01.wav,male_happy
+../input/savee-database/AudioData/JK/a03.wav,male_angry
+../input/savee-database/AudioData/JK/h14.wav,male_happy
+../input/savee-database/AudioData/JK/sa15.wav,male_sad
+../input/savee-database/AudioData/JK/h11.wav,male_happy
+../input/savee-database/AudioData/JK/h05.wav,male_happy
+../input/savee-database/AudioData/JK/a14.wav,male_angry
+../input/savee-database/AudioData/JK/a10.wav,male_angry
+../input/savee-database/AudioData/JK/f04.wav,male_fearful
+../input/savee-database/AudioData/JK/f13.wav,male_fearful
+../input/savee-database/AudioData/JK/f11.wav,male_fearful
+../input/savee-database/AudioData/JK/sa01.wav,male_sad
+../input/savee-database/AudioData/JK/h15.wav,male_happy
+../input/savee-database/AudioData/JK/f14.wav,male_fearful
+../input/savee-database/AudioData/JK/a11.wav,male_angry
+../input/savee-database/AudioData/JK/sa07.wav,male_sad
+../input/savee-database/AudioData/JK/sa09.wav,male_sad
+../input/savee-database/AudioData/JK/a15.wav,male_angry
+../input/savee-database/AudioData/JK/a09.wav,male_angry
+../input/savee-database/AudioData/JK/a07.wav,male_angry
+../input/savee-database/AudioData/JK/f02.wav,male_fearful
+../input/savee-database/AudioData/JK/h08.wav,male_happy
+../input/savee-database/AudioData/JK/sa13.wav,male_sad
+../input/savee-database/AudioData/JK/a06.wav,male_angry
+../input/savee-database/AudioData/JK/h04.wav,male_happy
+../input/savee-database/AudioData/JK/sa03.wav,male_sad
+../input/savee-database/AudioData/JK/h07.wav,male_happy
+../input/savee-database/AudioData/JK/h12.wav,male_happy
+../input/savee-database/AudioData/JK/a04.wav,male_angry
+../input/savee-database/AudioData/JK/sa12.wav,male_sad
+../input/savee-database/AudioData/JK/sa05.wav,male_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_home_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_youth_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_near_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_search_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pick_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_dodge_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_void_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_sheep_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pain_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_fall_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rag_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_when_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_date_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_such_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_burn_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rose_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_choice_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_ring_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_shall_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_boat_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_wire_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_death_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_love_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_came_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_ripe_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pike_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_chat_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_keg_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_doll_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_vote_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_cheek_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_limb_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_turn_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_bite_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mop_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_yes_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_thin_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_shack_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_time_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_good_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_room_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_moon_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_name_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_wash_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_sour_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_goose_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_witch_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_chalk_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hire_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_base_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_shout_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_seize_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_sell_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_third_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_voice_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_door_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_young_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pole_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_bone_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mess_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_soap_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_tool_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_soup_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rat_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_dog_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_luck_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_dab_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_wag_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pass_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_sub_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rot_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_jar_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_chair_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_chief_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_fat_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rain_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hole_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_far_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_neat_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_read_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hash_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_met_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_calm_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_fail_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_gin_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_thumb_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_long_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_cab_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_ton_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_gas_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_lean_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_goal_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_bath_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_dip_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_tell_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mob_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_which_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_life_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_jail_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_road_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pool_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_week_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_kill_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hate_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_jug_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_phone_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_red_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_wife_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_tough_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mood_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_dead_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hush_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_juice_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_bean_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_tape_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rush_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_whip_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_note_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_merge_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_shawl_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hurl_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_learn_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_lid_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_lose_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_laud_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hall_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_nice_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_king_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_hit_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mode_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_wheat_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_size_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_tire_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_lease_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_make_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_keep_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_beg_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_thought_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_peg_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_judge_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_dime_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_puff_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_sail_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_perch_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_tip_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_germ_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_have_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_lot_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_south_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_haze_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_match_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_get_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_bought_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_lore_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pad_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_half_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_should_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_team_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_back_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_shirt_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_yearn_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_five_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_white_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_talk_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_book_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_knock_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_kite_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mouse_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_vine_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_pearl_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_fit_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_ditch_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_reach_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_kick_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_page_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_nag_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_raid_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_said_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_deep_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_mill_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_gap_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_loaf_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_late_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_cause_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_live_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_check_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_food_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_walk_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_join_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_keen_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_rough_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_gun_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_take_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_bar_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_gaze_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_sure_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_chain_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_raise_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_cool_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_fear/YAF_numb_fear.wav,female_fearful
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_shack_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_soap_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_read_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_soup_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_white_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_seize_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_moon_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_merge_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lease_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rush_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_when_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pike_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sour_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_dime_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_cause_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_germ_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_five_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_shout_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_limb_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_reach_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_witch_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_gap_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_ripe_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_love_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sell_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_met_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_luck_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_far_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sheep_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_kick_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_raise_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_jail_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_tip_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_note_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_third_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_vine_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_youth_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_make_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sub_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mouse_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_haze_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_fat_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_cab_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_dab_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bar_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_chat_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_ditch_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_dip_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_calm_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hash_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_phone_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hit_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_food_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bath_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_time_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_jug_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_turn_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sail_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_gin_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rat_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_red_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_fall_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_perch_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_doll_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_get_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hush_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_raid_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lore_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_good_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_road_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mop_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_nice_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_kill_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_chair_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lose_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_vote_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_keen_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_dog_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_have_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bone_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_back_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hole_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_peg_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rose_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_thumb_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_keg_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hate_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_shirt_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_gas_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_wire_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_judge_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_near_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_cheek_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_jar_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lean_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_deep_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pad_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_shawl_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_ton_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_neat_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_fail_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_page_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_week_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lot_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_came_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_tool_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pool_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_burn_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rough_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_tire_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_wife_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_door_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_boat_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hire_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_young_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pass_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bean_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_void_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_south_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_long_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_tell_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_half_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_book_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_team_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_death_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bite_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_keep_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_laud_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pick_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_kite_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_thought_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mob_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_match_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_walk_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_dead_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_gun_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_check_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_room_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_nag_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_said_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_learn_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rain_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_home_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mess_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rot_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_should_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_live_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_join_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_wash_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_puff_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_late_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_base_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_lid_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hall_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_chalk_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pole_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_fit_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_such_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_search_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_knock_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_loaf_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_goose_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_cool_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_yes_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_wheat_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mill_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_king_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_date_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_voice_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_gaze_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_rag_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_take_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_whip_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_juice_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_which_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_yearn_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_chain_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_name_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_wag_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pain_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_sure_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_tape_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mode_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_mood_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_hurl_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_size_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_goal_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_talk_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_beg_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_tough_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_chief_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_shall_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_life_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_bought_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_pearl_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_dodge_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_numb_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_thin_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_choice_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_angry/YAF_ring_angry.wav,female_angry
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_jail_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pearl_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pike_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_raise_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_shout_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_merge_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_laud_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hire_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_lore_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_ditch_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mess_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_talk_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_far_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_chief_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tape_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_young_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_doll_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_dip_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_cause_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_live_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_boat_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_keep_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_have_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_learn_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_deep_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_said_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_kill_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pad_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_ton_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_chalk_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mood_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_soap_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_fall_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bath_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_voice_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_chain_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_met_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bean_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_size_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_peg_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mode_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_haze_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hate_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pole_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_good_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tough_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bought_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_red_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_witch_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tool_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bar_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_came_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_cab_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_lean_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tire_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_germ_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_kite_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_wheat_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tell_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_cool_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_walk_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_neat_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sure_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_choice_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_near_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_lose_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_take_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hash_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rag_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_shawl_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_get_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_time_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_jug_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_wag_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_reach_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_gap_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_moon_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_book_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rose_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_lid_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_food_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mob_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_date_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_week_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_perch_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_tip_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_gaze_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mouse_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_dodge_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_thumb_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_fat_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_yes_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pain_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_juice_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_judge_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_shack_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_gas_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sell_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_road_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_phone_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_fit_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_which_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_ripe_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_page_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_read_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_jar_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hall_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_wash_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rain_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_loaf_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_vine_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_cheek_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_lot_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_door_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_shall_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_soup_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mop_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_yearn_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_lease_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_kick_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_join_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_long_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_keg_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_chat_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_wife_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_five_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_numb_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_limb_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pass_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hole_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_such_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_death_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_king_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sheep_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rat_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_south_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_luck_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_nice_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_vote_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_third_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_knock_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_seize_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_room_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_void_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_match_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_wire_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pool_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_gin_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rot_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_life_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_raid_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_half_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_team_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_home_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_dab_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_love_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_shirt_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_keen_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hurl_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_puff_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sail_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rough_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_beg_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_thought_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_whip_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_gun_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_note_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_thin_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_burn_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_check_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_white_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hit_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_calm_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_dog_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_when_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_name_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_make_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_late_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_dead_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bone_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_hush_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_ring_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_search_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_base_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_goose_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sub_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_pick_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_goal_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_nag_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_youth_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_sour_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_mill_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_bite_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_turn_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_rush_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_fail_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_should_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_dime_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_chair_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_happy/YAF_back_happy.wav,female_happy
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_chair_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_half_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_vote_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mess_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_far_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mill_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_gaze_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_met_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_whip_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_luck_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_perch_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_sub_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rat_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_learn_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mop_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hit_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_goose_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_thumb_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_soap_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_near_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_when_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_puff_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_youth_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_fat_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_dime_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_keg_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shack_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_sail_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_dip_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_turn_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_long_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_gap_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_nag_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hall_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_thought_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_chief_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_gin_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_phone_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mode_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_yearn_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_life_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_death_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_bath_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_moon_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pole_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tip_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_chain_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_witch_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_seize_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_knock_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_deep_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_time_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_limb_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_thin_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_wire_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_king_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rain_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_chat_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_name_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_base_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lore_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_such_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_check_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_beg_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lid_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_ripe_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_which_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_burn_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_good_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_came_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rose_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shout_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cool_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_white_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_keen_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_reach_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_food_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_laud_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_live_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pain_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_kill_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_said_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cheek_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_bar_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_read_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_door_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_team_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_merge_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shall_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_dead_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_germ_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_third_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_haze_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_dodge_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_wag_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_south_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_bean_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tire_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pad_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tape_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_red_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shawl_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_peg_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_late_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_size_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rough_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_doll_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_juice_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_make_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_nice_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_bone_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_room_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_dog_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hush_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_gas_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_bought_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_ring_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_week_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_gun_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tough_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_boat_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rot_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_walk_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_take_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_back_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_sheep_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pass_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_date_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_search_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_young_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_chalk_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_numb_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rag_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_jail_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_bite_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_kite_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_soup_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mob_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tell_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_choice_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pick_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lot_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_neat_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_should_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cab_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_join_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_shirt_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_wheat_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lease_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_wife_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_note_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_jug_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_ditch_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mouse_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_road_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_raid_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_keep_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pool_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_raise_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_wash_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_vine_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_kick_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_judge_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_mood_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_fit_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_fall_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_page_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_sell_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pike_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_goal_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_match_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_voice_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_book_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_home_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lose_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_cause_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_ton_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hole_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_talk_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_calm_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hash_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_tool_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_loaf_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_rush_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_five_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hate_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_pearl_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_yes_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_lean_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hurl_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_fail_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_sure_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_jar_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_void_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_have_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_get_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_love_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_dab_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_sour_sad.wav,female_sad
+../input/toronto-emotional-speech-set-tess/TESS Toronto emotional speech set data/YAF_sad/YAF_hire_sad.wav,female_sad
