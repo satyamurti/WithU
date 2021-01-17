@@ -61,12 +61,6 @@ SVm classifiers is also used for ensemble and making a robust output. We used ke
 - [x] Store Recordings For Future Analysis and Investigation.
 
 
-### Architecture
-This app uses [***MVVM (Model View View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-
-![](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
-
-
 ### ⚡ Getting Started
 * Clone or download repository as a zip file.
 * Open project in Android Studio.
