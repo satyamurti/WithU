@@ -19,12 +19,24 @@
 
 As we all know, the Covid19 pandemic changes the way of education, making everything online as soon as possible. Nowadays, chat apps are evolving. Today, I am introducing you to my new app, "Let's Chat" this will totally change the game by giving students a platform to interact and collaborate. This app will provide access free to all users for all its features. Through this app, students can message each other, study together, and learn a new way to share notes and stuff. But how is this possible? I am providing these significant features.
 
-#### Chat Messenging 
-- This feature allows WhatsApp like Messenging where users can create groups and have private chats to interact with each other, asking doubts by sending images, videos, and audio files, etc.( this will also help students to take breaks )
-#### Group Meetings
-- Group Meetings allows users to interact with each other and share files and documents while interacting virtually. Here teachers can conduct doubt sessions, Viva, online meetings smoothly.
-#### Go Live
- - This will help all the schools and colleges to interact with students and take live online lectures. In this, they can share direct assignments, files, documents, pdf, etc., making the conversation more interactive.
+#### Dataset
+- We are using RAVDESS, SAVEE, TESS dataset of speech. We filtered some of the data according to our use case which consists of 2000 speech files of 10 different emotions including like female fear, female sad, female happy, male fear and so on. 
+#### Feature Extraction
+- MFCC Features:
+MFCCs are the Mel Frequency Cepstral Coefficients. MFCC takes into account human perception for sensitivity at appropriate frequencies by converting the conventional frequency to Mel Scale, and are thus suitable for speech recognition tasks quite well
+- MELL Spectrogram:
+A Fast Fourier Transform is computed on overlapping windowed segments of the signal, and we get what is called the spectrogram. This is just a spectrogram that depicts amplitude which is mapped on a Mel scale.
+- Chroma:
+A Chroma vector is typically a 12-element feature vector indicating how much energy of each pitch class is present in the signal in a standard chromatic scale.
+
+#### Models
+ - Multilayer perceptron classifier:
+It is capable for understanding complex relation ships between features and labels, it is based on Artificial neural network. It uses no linear activation functions for deriving hidden layer values.
+It uses Adam optimizer by default for optimization task, also it uses nonconvex loss functions which gives a drawback of stocking in local optima. The model reaches on accuracy of 67 percent accuracy on validation dataset which is 25 percent of total samples.
+
+- Support vector machine classifier:
+SVm classifiers is also used for ensemble and making a robust output. We used kernel linear in our project. 
+
 #### Library Section 
  - This holds tons of online pdf books. Read, Gain a ton of knowledge. Teachers can create personal libraries where students can access all materials with a secret key provided by teachers.
 #### AR Camera
