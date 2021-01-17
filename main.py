@@ -52,7 +52,7 @@ async def isInDanger(myfile: bytes = File(...),keywords: List[str] = Form(...)
          isKeywordPresent = False
 
     isFearful = extract_features('temp.wav',mfcc= True, chroma= True, mel= True)
-    if isFearful or isKeywordPresent :
+    if isFearful and isKeywordPresent :
         return "True"
     else:
         return "False"         
