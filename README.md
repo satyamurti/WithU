@@ -50,9 +50,9 @@ SVm classifiers is also used for ensemble and making a robust output. We used ke
 
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](ss/1.jpg) | ![Imgur](ss/2.jpg) | ![Imgur](ss/3.jpg) |
-| ![Imgur](ss/4.jpg) | ![Imgur](ss/5.jpg) | ![Imgur](ss/6.jpg) |
-| ![Imgur](ss/7.jpg) | ![Imgur](ss/8.jpg) | ![Imgur](ss/9.jpg) |
+| ![Imgur](22.jpg) | ![Imgur](55.jpg) | ![Imgur](88.jpg) |
+| ![Imgur](33.jpg) | ![Imgur](66.jpg) |  |
+| ![Imgur](44.jpg) | ![Imgur](77.jpg) |  |
 
 ### 📌 Features
 - [x] AI/ML model that recognises the tone and perform counter action.
