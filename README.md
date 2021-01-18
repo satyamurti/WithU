@@ -5,7 +5,7 @@
 # WithU
 
 
-  **always a sheild for u
+  **An Intelligent android app that uses ML model that recognises the tone and emotional state of the statement and automatically trigger actions like sending location to nearby police station thorough sms, she teams etc and also live tracking using geo tracking** 
   
   
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://satyamurti.github.io)
@@ -17,8 +17,10 @@
   <img src="walktroughbanner.jpg" />
 </p>
 
+Women are now on respected positions in the country, but if we take a look behind the curtains, we see even then they are being exploited. Each day we read about horrific crimes being committed against women in our country like it’s a norm. Thats why we came up with this app.
+
 #### AI/ML model that recognises the tone and perform counter action:
-If it hears keywords like ‘bachao’ or ‘help’, it should use a machine learning or artificial intelligence model to judge the tone or emotional state of the statement and automatically trigger some actions like sending texts to nearby police station, she teams etc with geo co-ordinates and start live navigation with them. The model should be able to differentiate a cry for real help from a casual conversation like “could you help me with math test?”. Native language keywords can also be included.
+If it hears keywords like ‘bachao’ or ‘help’, it uses a machine learning model to judge the tone and emotional state of the statement and automatically trigger actions like sending location to nearby police station thorough sms, she teams etc and also live tracking using geo tracking.Our model is cabale of differentiatng between  a cry for real help and a casual conversation like “could you help me with this recipe?”. Native language keywords can also be included.
 
 ### Developed by 
 - Harsh Khandelwal
