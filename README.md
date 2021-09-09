@@ -2,7 +2,7 @@
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"/>
 </p>
 
-# WithU
+# withU
 
 
   **An Intelligent android app that uses ML model to recognise the tone and emotional state of the statement and automatically trigger actions like sending location to nearby police station thorough sms, she teams etc and also live tracking using geo tracking** 
